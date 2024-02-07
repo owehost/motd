@@ -1,0 +1,15 @@
+                   _               _                _
+  _____      _____| |__   ___  ___| |_   _ __   ___| |_
+ / _ \ \ /\ / / _ \ '_ \ / _ \/ __| __| | '_ \ / _ \ __|
+| (_) \ V  V /  __/ | | | (_) \__ \ |_ _| | | |  __/ |_
+ \___/ \_/\_/ \___|_| |_|\___/|___/\__(_)_| |_|\___|\__|
+
+
+Server ran in the cloud on Owehost.
+
+IMPORTANT - By using this VPS you agree to our legal policies (legal.owehost.com)
+
+Need help? Open a support ticket on owehost.com for server assistance.
+
+Happy hosting!
+
